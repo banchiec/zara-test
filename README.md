@@ -1,6 +1,6 @@
 # Zara Test
 
-Aplicación web para la visualización, búsqueda y gestión de un catálogo de teléfonos móviles. Desarrollada como parte de una prueba técnica.
+Aplicación web para la visualización. Desarrollada como parte de una prueba técnica.
 
 ## 🚀 Tecnologías utilizadas
 
