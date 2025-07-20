@@ -16,8 +16,8 @@ Aplicación web para la visualización, búsqueda y gestión de un catálogo de 
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/banchiec/zara-challenge.git
-cd phone-catalog
+git clone https://github.com/banchiec/zara-test.git
+cd zara-test
 npm install
 ```
 
