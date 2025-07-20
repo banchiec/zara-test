@@ -6,7 +6,7 @@ describe('<ListPhotosView/>', () => {
   it('should render component correctly', () => {
     const wrapper = renderWithProviders(<ListPhotosView />);
     const containerListPhotosView = wrapper.container.querySelector(
-      '.zara-challenge-list-photos-view'
+      '.zara-test-list-photos-view'
     );
     expect(containerListPhotosView).toBeDefined();
   });

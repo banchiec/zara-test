@@ -1,4 +1,2 @@
 export * from './layout';
-export * from './header';
-export * from './card-phone';
-export * from './skeleton';
+export * from './background-image';
