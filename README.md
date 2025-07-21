@@ -181,7 +181,7 @@ npm run test:ui
 
 ## 📄 Licencia
 
-Este proyecto es privado.
+Este proyecto es privado. tiempo empleado 3 horas.
 
 ---
 
