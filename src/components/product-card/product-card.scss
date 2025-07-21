@@ -1,0 +1,23 @@
+.zara-test-product-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+  gap: 15.51px;
+  &-details {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+
+  @media (min-width: 481px) {
+    border-radius: 6px;
+  }
+
+  @media (min-width: 1024px) {
+    max-width: 647px;
+    border-radius: 8px;
+  }
+}
